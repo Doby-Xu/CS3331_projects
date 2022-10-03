@@ -1,2 +1,3 @@
 # CS3331_projects
-Don't click in.
+
+软件工程课程个人仓库，用于存放个人课程项目
